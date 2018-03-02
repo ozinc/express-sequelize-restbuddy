@@ -1,3 +1,5 @@
+# This has been deprecated and is not used anywhere anymore
+
 # Express Sequelize RestBuddy [![Build Status](https://travis-ci.org/sveinnfannar/express-sequelize-restbuddy.svg?branch=master)](https://travis-ci.org/sveinnfannar/express-sequelize-restbuddy)
 > RestBuddy provides a simple, yet powerful abstraction to help reduce the amount of boilerplate code in REST APIs
 
